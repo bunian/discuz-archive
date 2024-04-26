@@ -1,0 +1,55 @@
+body,body a{ text-decoration:none; color:#333;}
+a:hover{ text-decoration:none;}
+.wi{margin-bottom: 10px; width:1000px; margin-left:auto; margin-right:auto;}
+#header{ background:url(../img/tbg.gif) repeat-x; height:160px;}
+#header .wi{ background:url(../img/banner.jpg) no-repeat right center; height:160px;}
+#header p{ height:100px;}
+#header p a{ display:block; background:url(../img/logo.gif) no-repeat center; width:270px; text-indent:-999em; height:100px;}
+#header .menu{ height:60px; line-height:60px;}
+#header .menu a{ display:inline-block; padding:0 20px; font-size:14px; color:#fff;}
+#header .menu a:hover{ background:#0c5b9e;}
+#header .menu a.on,#header .menu a.on:hover{ background:#0a5494;}
+#footer{ background:#4d4d4d; line-height:60px; text-align:center; color:#a5a5a5;}
+#footer a{ color:#c4c4c4;}
+#footer a:hover{ color:#fff;}
+.nav{ border-top:#b3b3b3 1px solid;}
+.nav .nt{ height:46px; line-height:46px; padding:15px 0; border-bottom:#e0e0e0 1px dashed;}
+.nav .nt h1{ color:#ff8400; font-size:30px; background:url(../img/icon1.gif) no-repeat 0 center; float:left; padding-left:30px;}
+.nav .nt a{ float:right; width:93px; text-align:center; font-size:14px; padding-right:44px; background:url(../img/xzb.gif) no-repeat 0 0; margin-left:20px; color:#0f62a9;}
+.nav .nt a:hover{ background:url(../img/xzb.gif) no-repeat 0 -46px; color:#fff;}
+.nav .bb{ height:38px; line-height:38px; color:#666; background:url(../img/icon2.gif) no-repeat 0 center; padding-left:20px;}
+.nav .nb{ position:relative; width:1020px; left:-10px; *padding-bottom:20px;}
+.nav .nb dl{ width:300px; padding:10px; margin:0 10px 20px; display:inline; float:left; background:#f5f5f5;}
+.nav .nb dl.ad{ height: 300px;}
+.nav .nb dl:hover{background:#eff6fc;}
+.nav .nb dl dt{ font-size:16px; font-weight:bold; padding-bottom:5px;}
+.nav .nb dl:hover dt{ color:#0f62a9;}
+.nav .nb dl dd{ color:#666; line-height:24px;}
+.nav .nb dl dd p{ padding:5px 0;}
+.nav .nb dl dd p a{ display:inline-block; margin-right:6px; color:#7c7c7c; border:#e0e0e0 1px solid; background:#fff; padding:0 8px;}
+.nav .nb dl dd p a:hover{ color:#fff; border:#207cc9 1px solid; background:#207cc9;}
+.smb{ background:#fffbf3; padding:15px; width:970px; margin:20px auto;}
+.smb h5{ color:#ff8400; background:url(../img/icon3.gif) no-repeat 0 center; padding-left:20px; margin-bottom:10px; font-weight:normal; font-size:12px;}
+.smb div{ padding-left:20px; line-height:24px;}
+
+.timet{ color:#ff8400; font-size:30px; background:url(../img/icon1.gif) no-repeat 0 center; border-bottom:#e0e0e0 1px solid; height:64px; line-height:64px; padding-left:30px;}
+.timet i{ font-size:18px; font-weight:normal; color:#333; padding-left:10px;}
+.timebg{ background:url(../img/timeline.gif) repeat-y 0 0; padding-bottom:30px;}
+.gxbk{ padding:30px 0 0 140px; position:relative;}
+.gxbk i.ltime{ position:absolute; top:30px; left:0; background:url(../img/timebg.gif) no-repeat 0 0; width:101px; height:25px; line-height:25px; color:#999; text-align:center; padding-right:27px;}
+.gxbk h2{ font-size:18px; line-height:25px; height:25px;}
+.gxbk h3{ font-size:12px; font-weight:normal; line-height:18px; padding:5px 0; color:#666;}
+.gxbk .hideline{ border-bottom:#e0e0e0 1px dashed; height:1px; line-height:1px; position:relative; margin:5px 0;}
+.gxbk a.hide{ background:#fff; line-height:20px; height:20px; position:absolute; right:0; top:-10px; color:#999; background-image:url(../img/hide.gif); background-repeat:no-repeat; padding-left:15px;}
+.gxbk a.hide:hover{ color:#ff8400;}
+.gxbk a.sq{ background-position:0 0;}
+.gxbk a.sq:hover{ background-position:0 -20px;}
+.gxbk a.zk{ background-position:0 -40px;}
+.gxbk a.zk:hover{ background-position:0 -60px;}
+.gxbk h4{ line-height:30px; height:30px; color:#666; font-weight:normal; background:url(../img/icon4.gif) no-repeat 0 center; padding-left:20px; font-size:12px;}
+.gxbk h5{ line-height:20px; color:#999; font-weight:normal; border-bottom:#e0e0e0 1px dashed; padding-bottom:10px; font-size:12px;}
+.gxbk ul{ padding-top:3px;}
+.gxbk ul li{ line-height:24px; height:24px; margin-top:10px;}
+.gxbk ul li b{ color:#999; font-weight:normal;}
+.gxbk ul li a{ display:inline-block; margin-right:9px; color:#7c7c7c; border:#e0e0e0 1px solid; padding:0 8px;}
+.gxbk ul li a:hover{ color:#fff; border:#207cc9 1px solid; background:#207cc9;}
